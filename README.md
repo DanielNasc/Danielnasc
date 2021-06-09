@@ -1,6 +1,7 @@
 <h1 align="center"> Hi there 👋 Olá </h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielNasc)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielNasc&show_icons=true&theme=radical)
+
 
 
 Here are some ideas to get you started:
