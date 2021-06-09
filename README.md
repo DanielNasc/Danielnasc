@@ -9,9 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNasc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielNasc&hide=prs)
 
-
-
-Here are some ideas to get you started:
+<br><br>
 
 - 🔭 I’m currently working on
 - nothing
