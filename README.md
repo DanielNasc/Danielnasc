@@ -1,4 +1,7 @@
 <h1 align="center"> Hi there 👋 Olá </h1>
+<hr>
+<iframe src="https://giphy.com/embed/11lxCeKo6cHkJy" width="453" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dance-kawaii-11lxCeKo6cHkJy">via GIPHY</a></p>
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNasc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielNasc&hide=prs)
