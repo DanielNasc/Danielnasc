@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 Olá </h1>
 
-![alt text](https://media.giphy.com/media/11lxCeKo6cHkJy/source.gif)
+<div style="text-align:center"><img src="https://media.giphy.com/media/11lxCeKo6cHkJy/source.gif" /></div
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNasc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielNasc&hide=prs)
