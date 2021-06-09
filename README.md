@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 Olá </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielNasc&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielNasc&show_icons=true&theme=radical)
 
 
 
