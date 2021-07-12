@@ -15,7 +15,7 @@
 
 
 <br>
-  <h1 align='center'>💻Skills // Aprendendo</h1>
+  <h1 align='center'>💻Aprendendo</h1>
 
 <div align='center'>
   
@@ -34,6 +34,8 @@
     <img height='40' src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white'>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height='40' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height='40' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
   
   </div>
 <br>
