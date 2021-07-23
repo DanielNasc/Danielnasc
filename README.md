@@ -13,6 +13,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNasc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielNasc&hide=prs)
 
+## <a href="https://github.com/cccounte">Conta secundária (Youtube)</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cccounte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
   <h1 align='center'>💻Aprendendo</h1>
