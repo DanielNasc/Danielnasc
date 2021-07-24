@@ -75,7 +75,7 @@
   <br><br>
   <div  align='center'>
   <a href='https://youtube.com/c/cccounte'>
-  <img align='center' src='https://yt3.ggpht.com/BqJeQQx0lBTgVQQuhRYQh0in4-qB2BQ5jA5xJS8LcGbtrcb3uyrJsd8BL2EQiwfEGMyJjMKF=s88-c-k-c0x00ffffff-no-rj'>
+  <img align='center' src='https://lh3.googleusercontent.com/a-/AOh14GjGBRmM0qQYZrPaxLtnOqRZNlVP_IcUkIoy3uqLQQ=s96-c'>
   <p><strong>cccounte</strong></p>
   <img align='center' alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCKVpeZ6tnKIv3ft_HBjNDKw?color=d00000&logo=youtube&style=for-the-badge">
   </a>
