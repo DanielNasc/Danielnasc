@@ -10,11 +10,10 @@
 
 <h1 align='center'>😎Stats</h1><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNasc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielNasc&hide=prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNasc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <a href="https://github.com/cccounte">Conta secundária (Youtube)</a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cccounte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cccounte&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
   <h1 align='center'>💻Aprendendo</h1>
@@ -23,10 +22,6 @@
   
   <br>
   <div align='center'>
-    <img height='40' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height='40' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height='40'src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=1f1f1f'>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height='40' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
@@ -60,17 +55,8 @@
 
 <h1 align='center'>🦊Outros</h1>
 
-
-- 🔭 I’m currently working on <br>
-   <mark>nothing</mark>
-- 🌱 I’m currently learning ... HTML5, CSS, JS, NodeJs, SQL, Unity (+ C#)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ... 
 - ⚡ Fun fact: 
-  im a youtuber XDDD
-
+  im a youtuber
 
   <br><br>
   <div  align='center'>
