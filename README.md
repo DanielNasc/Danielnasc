@@ -1,16 +1,5 @@
 # Hi there 👋 Olá
 
-Divirta-se olhando esse perfil suahsu <br>
-<img src="https://media.giphy.com/media/11lxCeKo6cHkJy/source.gif">
-
-## 😎 Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNasc&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- ## <a href="https://github.com/cccounte">Conta secundária (Youtube)</a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cccounte&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
 ## Aprendendo
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=1f1f1f"> 
