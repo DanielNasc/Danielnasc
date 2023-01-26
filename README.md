@@ -10,5 +10,6 @@
 <strong>Bancos de dados:</strong> MongoDB, Firestore, SQLite.
 
 ## Contato
+* <a href='https://www.linkedin.com/in/daniel-nascimento-3ct/'> LinkedIn </a>
 * <a href='https://twitter.com/cccounte'> Twitter </a> 
 * <a href ='mailto:danielnasc15987@gmail.com'> Gmail </a>
