@@ -1,6 +1,5 @@
 # Hi there 👋 
 
-<hr>
 <img height='250px' align='right' src="https://media.tenor.com/GfuuLvIZ5-4AAAAM/a-hat-in-time-gaming.gif">
 
 "Programar é tech, programar é pop" *Myamoto Musashi*
@@ -13,7 +12,6 @@
 var main_techs: string[] =[ 'Typescript', 'NodeJs', 'React', 'Postgres', 'MongoDB', 'Firebase' ]
 var i_like_too: string[] =[ 'C', 'python', 'old consoles Assembly (NES, SNES, Mega Drive/Genesis)', 'MATH' ]
 ```
-<hr>
 
 ## Contact
 
