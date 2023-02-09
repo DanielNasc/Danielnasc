@@ -2,9 +2,8 @@
 
 <hr>
 <img height='250px' align='right' src="https://media.tenor.com/GfuuLvIZ5-4AAAAM/a-hat-in-time-gaming.gif">
-"Programar é tech, programar é pop, programar é agro."
 
-*Myamoto Musashi*
+"Programar é tech, programar é pop" *Myamoto Musashi*
 
 ## Langs/Techs
 
