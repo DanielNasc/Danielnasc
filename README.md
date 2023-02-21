@@ -10,7 +10,7 @@
 
 ```ts
 var main_techs: string[] =[ 'Typescript', 'NodeJs', 'React', 'Postgres', 'MongoDB', 'Firebase' ]
-var i_like_too: string[] =[ 'C', 'python', 'old consoles Assembly (NES, SNES, Mega Drive/Genesis)', 'MATH' ]
+var i_like_too: string[] =[ 'Rust', 'C', 'python', 'old consoles Assembly (NES, SNES, Mega Drive/Genesis)', 'MATH' ]
 ```
 
 ## Contact
