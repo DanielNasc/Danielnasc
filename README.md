@@ -6,7 +6,7 @@
 
 ## Langs/Techs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNasc&layout=compact&langs_count=6&theme=radical&hide=css,scss,ejs,html,yacc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNasc&layout=compact&langs_count=6&theme=radical&hide=css,scss,jupyter%20notebook,ejs,html,yacc)](https://github.com/anuraghazra/github-readme-stats)
 
 ```ts
 var main_techs: string[] =[ 'Typescript', 'NodeJs', 'React', 'Postgres', 'MongoDB', 'Firebase' ]
