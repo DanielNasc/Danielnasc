@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNasc&layout=compact&langs_count=6&theme=radical&hide=css,scss,jupyter%20notebook,ejs,html,yacc)](https://github.com/anuraghazra/github-readme-stats)
 
 ```ts
-var main_techs: string[] =[ 'Typescript', 'Docker', 'Postgres', 'NodeJs', 'React', 'Firebase' ]
+var main_techs: string[] =[ 'Typescript', 'Java', 'Docker', 'Postgres', 'NodeJs', 'NextJs', 'Express', 'MySQL', 'Firebase' ]
 var i_like_too: string[] =[ 'Rust', 'C', 'C++', 'python', 'old consoles Assembly (NES, SNES, Mega Drive/Genesis)', 'MATH', 'MongoDB' ]
 ```
 
