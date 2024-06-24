@@ -1,17 +1,33 @@
 # Hi there 👋 
 
-<img height='250px' align='right' src="https://media.tenor.com/GfuuLvIZ5-4AAAAM/a-hat-in-time-gaming.gif">
+Sou Daniel Nascimento, crio códigos full-stack para aplicações web e mobile, crio automações e brinco com Low Level :)
 
-"Programar é tech, programar é pop." *Miyamoto Musashi*
-
-## Langs/Techs
+## Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNasc&layout=compact&langs_count=6&theme=radical&hide=css,scss,jupyter%20notebook,ejs,html,yacc)](https://github.com/anuraghazra/github-readme-stats)
 
-```ts
-var main_techs: string[] =[ 'Typescript', 'Java', 'Docker', 'Postgres', 'NodeJs', 'NextJs', 'Express', 'MySQL', 'Firebase' ]
-var i_like_too: string[] =[ 'Rust', 'C', 'C++', 'python', 'old consoles Assembly (NES, SNES, Mega Drive/Genesis)', 'MATH', 'MongoDB' ]
-```
+## Techs
+
+<div align='center'>
+  <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'>
+  <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'>
+  <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'>
+  <img src='https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'>
+  <img src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white'>
+  <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'>
+</div>
+
+<div align='center'>
+  <img src='https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white'>
+  <img src='https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white'>
+  <img src='https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white'>
+  <img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB'>
+  <img src='https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens'>
+</div>
+
+<div align='center'>
+  <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'>
+</div>
 
 ## Contact
 
