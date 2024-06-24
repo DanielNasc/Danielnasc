@@ -26,20 +26,27 @@ Sou Daniel Nascimento, crio códigos full-stack para aplicações web e mobile, 
 </div>
 
 <div align='center'>
+  <img src='https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white'>
+  <img src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white'>
+  <img src='https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white'>
+  <img src='https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34'>
+  <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white'>
+</div>
+
+<div align='center'>
+  <img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white'>
   <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'>
 </div>
 
 ## Contact
 
 <div align='center'>   
-  <a  href='https://twitter.com/__danielnasc'>
-    <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>
+  <a  href='https://x.com/__danielnasc'>
+    <img src='https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white'>
    </a> 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href ='mailto:danielnasc15987@gmail.com'>
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href='https://www.linkedin.com/in/--daniel-nasc/'>
     <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'>
   </a>
