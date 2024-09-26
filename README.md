@@ -41,9 +41,9 @@ Sou Daniel Nascimento, crio códigos full-stack para aplicações web e mobile, 
 ## Contact
 
 <div align='center'>   
-  <a  href='https://x.com/__danielnasc'>
+<!--   <a  href='https://x.com/__danielnasc'>
     <img src='https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white'>
-   </a> 
+   </a>  -->
   <a href ='mailto:danielnasc15987@gmail.com'>
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
   </a>
